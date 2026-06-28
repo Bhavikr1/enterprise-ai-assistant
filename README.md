@@ -152,6 +152,8 @@ Each tool has a precise description that the LLM reads to decide which tool to c
 
 Failure handling: all external API tools retry twice with exponential backoff (2s, 4s) on timeout or rate limit. Users never see a raw error — they get a clean message.
 
+**On MCP:** The assignment lists MCP as preferred. MCP was not implemented here — building a proper MCP server (stdio or HTTP transport, schema definition, lifecycle handling, client wiring) is a 2–3 day task on its own, which falls outside a 3-hour constraint. LangChain's `@tool` abstraction achieves the same agent-decides-when-to-call behavior within the available time. A full MCP server is listed under Future Improvements.
+
 ---
 
 ## Feedback Loop
