@@ -1,0 +1,70 @@
+LEAVE POLICY DOCUMENT
+Horizon Enterprises
+Version 2.1 | Effective: January 2024
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. PURPOSE AND SCOPE
+━━━━━━━━━━━━━━━━━━━━
+This policy governs all leave entitlements and approval processes for employees of Horizon Enterprises. It applies to all full-time, part-time, and contractual employees unless otherwise stated.
+
+2. TYPES OF LEAVE AND ENTITLEMENTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2.1 Casual Leave (CL)
+Employees are entitled to 12 casual leaves per calendar year. Casual leaves cannot be carried forward to the next calendar year. They cannot be encashed. Casual leave may not be combined with earned leave or sick leave in a single application unless approved by HR.
+
+2.2 Earned Leave (EL)
+Employees earn 1.5 days of earned leave for every completed month of service, totalling 18 days per year. Earned leave can be carried forward for a maximum of 30 days. Leave beyond 30 days lapses at year end. Earned leave may be encashed at the time of resignation or retirement.
+
+2.3 Sick Leave (SL)
+Employees are entitled to 10 sick leaves per year. Sick leave of more than 3 consecutive days requires a medical certificate from a registered practitioner. Sick leave cannot be carried forward or encashed.
+
+2.4 Maternity Leave
+Female employees are entitled to 26 weeks of paid maternity leave as per the Maternity Benefit Act. This is applicable after completing 80 days of service in the organisation. Maternity leave cannot be combined with any other leave type.
+
+2.5 Paternity Leave
+Male employees are entitled to 5 working days of paid paternity leave, to be availed within 6 months of the child's birth or adoption.
+
+2.6 Bereavement Leave
+Employees are entitled to 3 days of paid bereavement leave in the event of the death of an immediate family member (spouse, child, parent, or sibling). Extended bereavement leave of up to 5 additional days may be granted at the discretion of the department head.
+
+3. LEAVE APPROVAL PROCESS
+━━━━━━━━━━━━━━━━━━━━━━━━━
+3.1 General Process
+All leave requests must be submitted through the HR portal at least 2 working days in advance for planned leaves. Emergency or sick leaves must be informed via email or phone to the direct manager on the day of absence, followed by a formal application within 24 hours of return.
+
+3.2 Approval Authority
+- Casual Leave (1-3 days): Approved by direct reporting manager.
+- Casual Leave (4+ days): Requires approval from department head in addition to direct manager.
+- Earned Leave (up to 5 days): Approved by direct reporting manager.
+- Earned Leave (6-15 days): Requires additional approval from HR department.
+- Earned Leave (more than 15 days): Requires HR and department head co-approval with minimum 15 days advance notice.
+- Sick Leave: Self-certified for up to 3 days. Medical certificate required beyond 3 days.
+
+3.3 Leave During Notice Period
+Employees under notice period are not permitted to take earned leave or casual leave unless approved in exceptional circumstances by HR and the department head jointly. Sick leave during notice period is permitted subject to medical certification.
+
+3.4 Leave During Probation
+Employees under probation (first 6 months of employment) may not avail earned leave. Casual and sick leave accrue and may be availed after confirmation. Any leave taken during probation beyond sick leave will be treated as loss of pay unless HR grants special approval.
+
+4. LEAVE ESCALATION PROCESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4.1 Unapproved Absence
+If an employee is absent for more than 2 consecutive days without approved leave or prior intimation, the following escalation applies:
+- Day 3: Automated alert triggered to direct manager.
+- Day 5: HR sends formal notice to employee's registered email and emergency contact.
+- Day 10: Matter escalated to department head for disciplinary review.
+
+4.2 Leave Rejection Appeal
+If leave is rejected by the direct manager, the employee may appeal to the HR department within 3 working days. HR's decision is final. Appeals must be submitted in writing via the HR portal with a reason for the appeal.
+
+5. PUBLIC HOLIDAYS AND RESTRICTED HOLIDAYS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Employees are entitled to 10 mandatory public holidays and 2 restricted holidays per year. The restricted holiday list is published at the start of each calendar year by the HR department.
+
+6. LEAVE ENCASHMENT POLICY
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Leave encashment is permitted only for earned leave at the time of full and final settlement. The encashment rate is calculated as: (Basic Salary / 26) × Number of EL days encashed. Maximum encashable EL at separation is 30 days.
+
+7. CONTACT
+━━━━━━━━━━
+For all leave-related queries, contact HR at hr@horizonenterprises.com or raise a ticket on the HR portal.

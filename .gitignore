@@ -1,0 +1,13 @@
+# Environment
+.env
+venv/
+
+# Runtime artifacts — auto-created on first run
+data/chroma_db/
+data/feedback.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

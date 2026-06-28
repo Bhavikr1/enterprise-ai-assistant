@@ -1,0 +1,97 @@
+CANDIDATE SCREENING AND SHORTLISTING SOP
+Horizon Enterprises — Talent Acquisition
+Version 1.4 | Effective: February 2024
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. PURPOSE
+━━━━━━━━━━
+This SOP defines the end-to-end process for screening, shortlisting, and managing candidates during the recruitment lifecycle at Horizon Enterprises. It ensures consistency, fairness, and efficiency across all hiring activities.
+
+2. SCOPE
+━━━━━━━━
+This SOP applies to all open positions including full-time roles, contractual engagements, and internship programs. It is applicable to all departments participating in the hiring process.
+
+3. CANDIDATE SOURCING
+━━━━━━━━━━━━━━━━━━━━━
+3.1 Sourcing Channels
+Candidates are sourced through: company career page, job portals (Naukri, LinkedIn, Indeed), employee referral program, campus recruitment drives, and empanelled recruitment agencies. The Talent Acquisition (TA) team is responsible for posting job descriptions and managing inbound applications.
+
+3.2 Job Description Review
+Before posting any role, the JD must be reviewed and approved by the Hiring Manager. JD must include: role title, reporting structure, key responsibilities, mandatory qualifications, preferred qualifications, and compensation band.
+
+4. INITIAL SCREENING CRITERIA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4.1 Resume Screening
+TA team screens all incoming resumes within 3 working days of application. Mandatory screening criteria include:
+- Minimum educational qualification as specified in JD
+- Minimum years of relevant experience (±1 year flexibility permitted for strong profiles)
+- Presence of key skills listed as mandatory in JD
+- No unexplained employment gaps exceeding 6 months (must be flagged for clarification, not auto-rejected)
+
+4.2 Screening Score Threshold
+Each resume is scored on a 10-point scale based on skills match, experience relevance, education, and project quality. Candidates scoring 7 and above are moved to the shortlisted pool. Candidates scoring 5-6 are placed on the waitlist. Candidates scoring below 5 are rejected.
+
+4.3 ATS Filtering
+Resumes are first processed through the ATS (Applicant Tracking System). ATS applies keyword matching against the JD. However, ATS results must be manually reviewed by the TA team before any candidate is rejected — automated rejection without human review is prohibited.
+
+5. SHORTLISTING PROCESS
+━━━━━━━━━━━━━━━━━━━━━━━
+5.1 TA Shortlist
+TA team prepares a shortlist of top candidates with screening scores and brief notes. This shortlist is shared with the Hiring Manager within 5 working days of the application deadline.
+
+5.2 Hiring Manager Review
+Hiring Manager reviews the TA shortlist and provides approval or feedback within 3 working days. If the Hiring Manager disagrees with a TA shortlist decision, the matter is discussed in a joint review call before the candidate is rejected.
+
+5.3 Final Shortlist
+After Hiring Manager review, the final shortlist is locked. Typically, 5-8 candidates are shortlisted per open position for the interview round. If fewer than 3 qualified candidates are available, the TA team must re-open sourcing before interviews are scheduled.
+
+6. CANDIDATE COMMUNICATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+6.1 Interview Invitation
+Shortlisted candidates must be contacted within 2 working days of final shortlist approval. Contact is made via email and phone call. Email must include: role details, interview format, date and time options, expected duration, and interviewer names.
+
+6.2 Non-Response Protocol
+If a shortlisted candidate does not respond to the interview invitation within 48 hours:
+- The recruiter sends one follow-up reminder via email and SMS.
+- If there is no response within an additional 24 hours (total 72 hours), the candidate is marked as non-responsive in the ATS.
+- The next candidate from the waitlist is contacted automatically.
+- Non-responsive candidates may be reconsidered for future openings at the recruiter's discretion.
+
+6.3 Rejection Communication
+Candidates who are not shortlisted must receive a rejection notification within 10 working days of the application closing date. Rejection emails must be professional and must not cite specific reasons for rejection.
+
+7. INTERVIEW PROCESS
+━━━━━━━━━━━━━━━━━━━━
+7.1 Interview Rounds
+Round 1: Technical screening (TA team or technical panel) — 45 minutes
+Round 2: Technical deep-dive (Hiring Manager and senior team member) — 60 minutes
+Round 3 (if applicable): Cultural fit and leadership round (Department Head) — 30 minutes
+Round 4 (for senior roles above L5): CHRO or MD interview — 30 minutes
+
+7.2 Interview Feedback
+All interviewers must submit structured feedback within 24 hours of the interview. Feedback must include: technical rating (1-5), communication rating (1-5), overall recommendation (proceed / hold / reject), and specific notes.
+
+7.3 Hiring Decision
+A candidate requires a majority recommendation to proceed. In case of a tie, the Hiring Manager's recommendation takes precedence. Final hiring decision is confirmed by HR after reference checks.
+
+8. OFFER AND ONBOARDING
+━━━━━━━━━━━━━━━━━━━━━━━
+8.1 Offer Generation
+Offer letters are generated by HR after Hiring Manager and Finance approval of the proposed compensation. Offer letter must be issued within 3 working days of hiring decision.
+
+8.2 Offer Validity
+Offers are valid for 5 working days from the date of issue. Extensions may be granted by the HR Head in exceptional cases.
+
+8.3 Background Verification
+All selected candidates must complete background verification through the empanelled BGV agency before joining. BGV includes: employment history verification, education certificate verification, criminal record check, and reference checks from previous 2 employers.
+
+9. ESCALATION PATHS
+━━━━━━━━━━━━━━━━━━━
+- If the TA team and Hiring Manager cannot agree on a shortlist: escalate to HR Head.
+- If a candidate withdraws after offer acceptance: TA team re-activates waitlist within 24 hours and notifies Hiring Manager.
+- If a joining date is missed without communication: HR sends notice and cancels offer after 3 working days.
+
+10. CONTACT
+━━━━━━━━━━━
+Talent Acquisition team: ta@horizonenterprises.com
+HR Head: hrhead@horizonenterprises.com
