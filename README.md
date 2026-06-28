@@ -194,20 +194,15 @@ How this data could be used later:
 
 ## Evaluation
 
-Eight questions were run against the live system. All passed.
+Eight questions run against the live system.
 
-*What is the maximum number of casual leaves per year?* — 12 casual leaves, cannot be carried forward. Source: leave_policy.txt, Section 2.1. Confidence: 91%.
-
-*Who approves procurement above Rs. 1,00,000?* — CFO and MD jointly. Source: procurement_sop.txt, Section 4.4. Confidence: 91%.
-
-*What happens if a shortlisted candidate doesn't respond in 48 hours?* — Recruiter sends one reminder, then marks non-responsive and contacts next waitlisted candidate. Source: candidate_screening_sop.txt, Section 6.2. Confidence: 91%.
-
-*Can an employee take earned leave during probation?* — No, leave accrues but cannot be availed until probation is complete. Source: leave_policy.txt, Section 3.4. Confidence: 92%.
-
-*Which branch has the highest placement rate?* — Bangalore at 90.0% (computed from raw data).
-
-*What is the average package across all branches?* — 6.53 LPA (computed from Avg_Package_LPA column).
-
-*What is the current weather in Mumbai?* — Live data returned from OpenWeatherMap API.
-
-*What is the CEO's annual bonus as per company policy?* — Correctly refused. Topic not in any document.
+| # | Category | Question | Expected | Actual | Pass/Fail |
+|---|----------|----------|----------|--------|-----------|
+| 1 | Document | What is the maximum number of casual leaves per year? | 12 casual leaves, cannot be carried forward | 12 casual leaves per year, cannot be carried forward. [Source: leave_policy.txt, Section 2.1] Confidence: 91% | ✅ Pass |
+| 2 | Document | Who approves procurement above Rs. 1,00,000? | CFO and MD jointly | CFO and MD jointly approve. [Source: procurement_sop.txt, Section 4.4] Confidence: 91% | ✅ Pass |
+| 3 | Document | What happens if a shortlisted candidate doesn't respond in 48 hours? | Recruiter sends reminder, then contacts next waitlisted candidate | Recruiter sends one reminder, marks non-responsive, contacts next waitlisted candidate. [Source: candidate_screening_sop.txt, Section 6.2] Confidence: 91% | ✅ Pass |
+| 4 | Document | Can an employee take earned leave during probation? | No — leave accrues but cannot be availed during probation | No. Leave accrues but cannot be availed until probation is complete. [Source: leave_policy.txt, Section 3.4] Confidence: 92% | ✅ Pass |
+| 5 | Structured Data | Which branch has the highest placement rate? | Computed from CSV — correct branch name and % | Bangalore — 90.0% (computed from raw data via Pandas agent) | ✅ Pass |
+| 6 | Structured Data | What is the average package across all branches? | Computed mean of Avg_Package_LPA column | 6.53 LPA (computed from Avg_Package_LPA column) | ✅ Pass |
+| 7 | Tool Calling | What is the current weather in Mumbai? | Live data from OpenWeatherMap API with temperature, humidity, wind | Live weather returned: temperature, feels-like, humidity, wind speed, visibility. [Live data from OpenWeatherMap API] | ✅ Pass |
+| 8 | Refusal | What is the CEO's annual bonus as per company policy? | Refusal — topic not in any document | "I could not find sufficient information in the available documents to answer this." | ✅ Pass |
